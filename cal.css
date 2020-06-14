@@ -1,0 +1,27 @@
+.output{
+    margin-left: 362px;
+    padding-top: 90px;
+    height: 44px;
+    pointer-events: none;
+    width: 80%;
+}
+.btn {
+    width: 49px;
+    margin-left: 12px;
+    height: 28px;
+}
+.calc{
+    margin-inline-start: 250px;
+}
+#screen{
+    margin-left: -349px;
+    padding-top: 14px;
+    height: -34px;
+    pointer-events: none;
+    width: 27%;
+}
+.Main{
+    background: azure;
+    width: 1360px;
+    height: 343px;
+}
